@@ -1,10 +1,15 @@
+# Flask
+# opencv-python
+# numpy
+# ultralytics
+# Pillow
+# SpeechRecognition
+# pyttsx3
+# Flask_SQLAlchemy
+# Flask_Cors
+#gunicorn
 Flask
-opencv-python
-numpy
-ultralytics
-Pillow
-SpeechRecognition
-pyttsx3
-Flask_SQLAlchemy
-Flask_Cors
 gunicorn
+ultralytics
+opencv-python-headless
+PyYAML
