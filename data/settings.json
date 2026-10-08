@@ -1,0 +1,10 @@
+{
+  "secret_color": "purple",
+  "language": "en",
+  "theme": "dark",
+  "high_contrast": false,
+  "voice_rate": 0.9,
+  "voice_volume": 1.0,
+  "voice_pitch": 1.0,
+  "camera_resolution": "720"
+}

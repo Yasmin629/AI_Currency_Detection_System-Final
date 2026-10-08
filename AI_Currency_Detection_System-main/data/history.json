@@ -1,0 +1,37 @@
+[
+  {
+    "type": "scan",
+    "label": "Rs 100",
+    "confidence": 82.44,
+    "time": "08 Oct 2026, 09:27 PM",
+    "language": "en"
+  },
+  {
+    "type": "scan",
+    "label": "Rs 100",
+    "confidence": 93.47,
+    "time": "08 Oct 2026, 09:27 PM",
+    "language": "en"
+  },
+  {
+    "type": "scan",
+    "label": "Rs 100",
+    "confidence": 83.89,
+    "time": "08 Oct 2026, 09:27 PM",
+    "language": "en"
+  },
+  {
+    "type": "scan",
+    "label": "Rs 100",
+    "confidence": 90.72,
+    "time": "08 Oct 2026, 09:27 PM",
+    "language": "en"
+  },
+  {
+    "type": "scan",
+    "label": "Rs 100",
+    "confidence": 75.89,
+    "time": "08 Oct 2026, 09:27 PM",
+    "language": "en"
+  }
+]
