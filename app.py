@@ -1,10 +1,11 @@
+import os
+os.environ["YOLO_CONFIG_DIR"] = "/tmp/Ultralytics"
 from currency_detector import COIN_SHAPE_SENTINEL, detect_note
 from flask import Flask, render_template, request, jsonify
 from chatbot import chatbot_response
 from predict import model_status, predict_currency_detailed
 from fake_detector import analyze_note
 from coin_detector import predict_coin, model_status as coin_model_status
-import os
 import re
 import json
 import uuid
